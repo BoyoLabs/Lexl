@@ -1,5 +1,7 @@
 # lexl
- Lexl is a Context Data Logic (CDL) framework with the aim of enhancing the completeness and accuracy of responses from an LLM 
+Lexl stands for LLM Executive Logic, but thats the name of the agent.
+
+Lexl is a Context Data Logic (CDL) framework with the aim of enhancing the completeness and accuracy of responses from an LLM. Best used to get more *accurate* and *complete* answers.
 you can try Lexl now as a live gem here:
 
 https://gemini.google.com/gem/1tjKNryMjVKAs9I3vKVtZtJZ1DZ8t_rms?usp=sharing
