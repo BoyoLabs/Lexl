@@ -2,7 +2,7 @@
  Lexl is a Context Data Logic (CDL) framework with the aim of enhancing the completeness and accuracy of responses from an LLM 
 you can try Lexl now as a live gem here:
 
-https://gemini.google.com/gem/15r7G_R68FMRYrxLLff-rzpX52Vec-j5x?usp=sharing
+https://gemini.google.com/gem/1tjKNryMjVKAs9I3vKVtZtJZ1DZ8t_rms?usp=sharing
 
 This repo is considered complete unless there is a lot of discussion that requires modification.
 
