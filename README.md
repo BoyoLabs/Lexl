@@ -6,7 +6,7 @@ you can try Lexl now as a live gem here:
 
 https://gemini.google.com/gem/1tjKNryMjVKAs9I3vKVtZtJZ1DZ8t_rms?usp=sharing
 
-Though, I suggest creating your own gem or downloading the raw .cdl.md and uploading it yourself with it -- it makes it easier to access later. This link is for if you want to test it out.
+Though, I suggest creating your own gem or downloading the raw .cdl.md and uploading it yourself with it -- it makes it easier to access later. This link is more of a live demo.
 
 This repo is considered complete unless there is a lot of discussion that requires modification.
 
